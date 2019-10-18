@@ -62,7 +62,6 @@ class NutritionChart extends React.Component{
                     data={this.state.nutritionData}
                     options={{
                         maintainAspectRatio: false,
-                        // responsive: true,
                         legend:{
                             position: "bottom",
                         },
@@ -73,14 +72,6 @@ class NutritionChart extends React.Component{
                         tooltips:{
                             position: "nearest",
                         }
-                        // scales:{
-                        //     yAxes:[{
-                        //         ticks:{
-                        //             max: 35
-                        //         }
-                        //     }]
-                        // }
-    
                     }}
                 />
             </div>

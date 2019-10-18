@@ -21,10 +21,8 @@ time, mark, audio, video {
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	/* height: 100%; */
-	/* width: 100%; */
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -34,7 +32,6 @@ body {
 	line-height: 1;
 	width: 100vw;
 	height: 100vh;
-	/* overflow: hidden; */
 }
 ol, ul {
 	list-style: none;

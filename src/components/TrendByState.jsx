@@ -69,14 +69,10 @@ class TrendByState extends React.Component{
         return(
             <div id="horizontal-bar-container">
                 <h2>Top 10 State Search</h2>
-                {/* <p> Top 10 States</p> */}
-                {/* <p>Top 10 States</p> */}
                 <HorizontalBar
-                    // id = "horizontal-bar"
                     data = {{
                         labels: labels,
                         datasets: [{
-                            // label: "Popularity",
                             data: dataSets,
                             backgroundColor: [
                                 peach, strawberry, pom,

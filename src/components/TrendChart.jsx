@@ -8,7 +8,6 @@ class TrendChart extends React.Component{
             chartData: {},
             monthlyData: {},
         }
-        // this.getChartState = this.getChartState.bind(this);
     }
 
     componentDidMount(){
@@ -142,47 +141,44 @@ class TrendChart extends React.Component{
 
     render(){
         return(
-            // <div>
-                <Line
-                    data = {this.state.chartData}
-                    options = {{
-                        maintainAspectRatio: false,
-                        // responsive: true,
-                        title: {
-                            display: false,
-                            text: 'Trends of Favorite Ice Cream'
-                        },
-                        legend: {
-                            position: "right",
-                        },
-                        tooltips:{
-                            mode: 'label',
-                            position: 'nearest',
-                            bodySpacing: 3,
-                        },
-                        scales: {
-                            yAxes: [{
-                                gridLines: {
-                                    display: false,
-                                },
-                                scaleLabel: {
-                                    display: true,
-                                    labelString: "Popularity Peaks"
-                                }
-                            }],
-                            xAxes: [{
-                                gridLines: {
-                                    display: false,
-                                },
-                                scaleLabel: {
-                                    display: true,
-                                    labelString: "Months"
-                                }
-                            }]
-                        }
-                    }}
-                />
-            // </div>
+            <Line
+                data = {this.state.chartData}
+                options = {{
+                    maintainAspectRatio: false,
+                    title: {
+                        display: false,
+                        text: 'Trends of Favorite Ice Cream'
+                    },
+                    legend: {
+                        position: "right",
+                    },
+                    tooltips:{
+                        mode: 'label',
+                        position: 'nearest',
+                        bodySpacing: 3,
+                    },
+                    scales: {
+                        yAxes: [{
+                            gridLines: {
+                                display: false,
+                            },
+                            scaleLabel: {
+                                display: true,
+                                labelString: "Popularity Peaks"
+                            }
+                        }],
+                        xAxes: [{
+                            gridLines: {
+                                display: false,
+                            },
+                            scaleLabel: {
+                                display: true,
+                                labelString: "Months"
+                            }
+                        }]
+                    }
+                }}
+            />
         )
     }
 }
