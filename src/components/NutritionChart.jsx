@@ -17,6 +17,8 @@ class NutritionChart extends React.Component{
         const { flavor, nutritionFacts } = this.props;
         const { labels } = this.state.nutritionData;
 
+        const opacity = .6;
+
         if(prevProps.flavor !== flavor){
             this.setState({
                 nutritionData: {
@@ -29,6 +31,13 @@ class NutritionChart extends React.Component{
                             'rgba(254, 218, 101)',
                             'rgba(176, 223, 225)',
                             'rgba(0, 131, 117)'
+                        ],
+                        borderWidth: 0,
+                        hoverBackgroundColor: [
+                            `rgba(234, 28, 45, ${opacity})`,
+                            `rgba(254, 218, 101, ${opacity})`,
+                            `rgba(176, 223, 225, ${opacity})`,
+                            `rgba(0, 131, 117, ${opacity})`
                         ]
                     }]
                 }

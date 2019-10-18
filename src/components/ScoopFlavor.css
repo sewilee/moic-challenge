@@ -30,10 +30,11 @@
 
 .sidebar-scoops h1 {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: bolder;
     padding: 20px;
     text-align: center;
     overflow-wrap: break-word;
+    color: #8e1537;
 }
 
 .sidebar-scoops article {
@@ -91,10 +92,27 @@ img {
     padding: 0px 20px 20px 20px;
 }
 
+.section-charts h1,
+.section-charts h2 {
+    font-weight: bolder;
+    padding: 20px 10px 20px 10px;
+    padding-left: 0;
+}
+
+.section-charts h1 {
+    font-size: 24px;
+    color: #8e1537;
+}
+
 .section-charts h2 {
     font-size: 18px;
     color: #F498B8;
-    padding: 20px;
+}
+
+p {
+    font-size: 12px;
+    color: grey;
+    /* padding: 0 10px 0 10px; */
 }
 
 @media screen and (max-width: 1100px){

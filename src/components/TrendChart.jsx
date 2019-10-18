@@ -95,20 +95,28 @@ class TrendChart extends React.Component{
     getChartState(flavors, dataSet){
         const months = Object.keys(dataSet.months);
 
+        const strawberry = 'rgba(244, 153, 185)';
+        const peach = 'rgba(245, 218, 244)';
+        const pom = 'rgba(141, 19, 54, .3)';
+        const cherry = 'rgba(234, 28, 45)';
+        const banana = 'rgba(254, 218, 101)';
+        const blueberry = 'rgba(176, 233, 225)';
+        const watermelon = 'rgba(0, 131, 117)';
+
         const iceCreamTrend = flavors.map(flav => {
             let color;
             let fill = false;
             let backgroundColor = 'rgba(0, 0, 0, 0)';
             let borderDash = [10, 10];
 
-            if (flav === "Vanilla") { color = 'rgba(255, 99, 132, 0.6)'}
-            if (flav === "Chocolate") { color = 'rgba(255, 206, 86, 0.6)'}
-            if (flav === "Cookies N Cream") { color = 'rgba(255, 206, 86, 0.6)'}
-            if (flav === "Mint Chocolate Chip") { color = '#B0DFE0'}
-            if (flav === "Chocolate Chip Cookie Dough") { color = 'rgba(153, 102, 255, 0.6)'}
+            if (flav === "Vanilla") { color = strawberry}
+            if (flav === "Chocolate") { color = cherry}
+            if (flav === "Cookies N Cream") { color = banana}
+            if (flav === "Mint Chocolate Chip") { color = blueberry}
+            if (flav === "Chocolate Chip Cookie Dough") { color = watermelon}
 
             if (this.props.flavor === flav){ 
-                backgroundColor = 'rgba(141, 19, 54, .1)' 
+                backgroundColor = pom
                 fill = true;
                 borderDash = []
             }
@@ -118,7 +126,8 @@ class TrendChart extends React.Component{
                 data: dataSet.iceCream[flav],
                 borderColor: color,
                 backgroundColor: backgroundColor,
-                borderWidth: 4,
+                pointBackgroundColor: color,
+                borderWidth: 2,
                 fill: fill,
                 borderDash: borderDash,
             })
@@ -144,7 +153,27 @@ class TrendChart extends React.Component{
                             text: 'Trends of Favorite Ice Cream'
                         },
                         legend: {
-                            position: "bottom",
+                            position: "right",
+                        },
+                        scales: {
+                            yAxes: [{
+                                gridLines: {
+                                    display: false,
+                                },
+                                scaleLabel: {
+                                    display: true,
+                                    labelString: "Popularity Peaks"
+                                }
+                            }],
+                            xAxes: [{
+                                gridLines: {
+                                    display: false,
+                                },
+                                scaleLabel: {
+                                    display: true,
+                                    labelString: "Months"
+                                }
+                            }]
                         }
                     }}
                 />

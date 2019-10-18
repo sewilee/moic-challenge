@@ -54,18 +54,37 @@ class TrendByState extends React.Component{
                 dataSets.push(obj[1]);
             });
         }
+
+        const hoverColors = [
+            'rgba(234, 28, 45)',
+            'rgba(254, 218, 101)',
+            'rgba(176, 223, 225)',
+            'rgba(0, 131, 117)'
+        ];
+
+        const strawberry = 'rgba(244, 153, 185, 0.6)';
+        const peach = 'rgba(245, 218, 244, 0.6)';
+        const pom = 'rgba(141, 19, 54, 0.6)';
         
         return(
             <div id="horizontal-bar-container">
-                <h2>The Search for Ice Cream:</h2>
-                <p>Top 10 States</p>
+                <h2>Top 10 State Search</h2>
+                {/* <p> Top 10 States</p> */}
+                {/* <p>Top 10 States</p> */}
                 <HorizontalBar
                     // id = "horizontal-bar"
                     data = {{
                         labels: labels,
                         datasets: [{
-                            label: "Search Popularity",
-                            data: dataSets
+                            // label: "Popularity",
+                            data: dataSets,
+                            backgroundColor: [
+                                peach, strawberry, pom,
+                                peach, strawberry, pom,
+                                peach, strawberry, pom,
+                                peach
+                            ],
+                            hoverBackgroundColor: hoverColors[Math.floor(Math.random() * hoverColors.length)]
                         }]
                     }}
                     options = {{
@@ -94,12 +113,6 @@ class TrendByState extends React.Component{
                         tooltips: {
                             enabled: false,
                         }
-                        // onResize:() => {
-                        //     let canvas = document.getElementById("horizontal-bar");
-                        //     let parent = document.getElementById("horizontal-bar-container");
-                        //     canvas.width = parent.offsetWidth;
-                        //     canvas.height = parent.offsetHeight;
-                        // }
                     }}
                 />
             </div>
