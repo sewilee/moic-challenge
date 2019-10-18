@@ -136,7 +136,7 @@ class TrendChart extends React.Component{
             <div>
                 <Line
                     data = {this.state.chartData}
-                    height = {400}
+                    // height = {400}
                     // width = {400}
                     options = {{
                         maintainAspectRatio: false,

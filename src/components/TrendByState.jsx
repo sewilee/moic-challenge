@@ -56,8 +56,9 @@ class TrendByState extends React.Component{
         }
         
         return(
-            <div>
-                <HorizontalBar 
+            <div id="horizontal-bar-container">
+                <HorizontalBar
+                    // id = "horizontal-bar"
                     data = {{
                         labels: labels,
                         datasets: [{
@@ -81,7 +82,13 @@ class TrendByState extends React.Component{
                                     min: 0,
                                 }
                             }]
-                        }
+                        },
+                        // onResize:() => {
+                        //     let canvas = document.getElementById("horizontal-bar");
+                        //     let parent = document.getElementById("horizontal-bar-container");
+                        //     canvas.width = parent.offsetWidth;
+                        //     canvas.height = parent.offsetHeight;
+                        // }
                     }}
                 />
             </div>

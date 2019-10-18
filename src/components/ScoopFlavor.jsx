@@ -80,11 +80,13 @@ class ScoopFlavor extends React.Component{
                 </aside>
                 <section className="section-charts">
                     <div className="scoop-data">
-                        <NutritionChart flavor={flavor} nutritionFacts={nutritionFacts}/>
-                        <TrendByState flavor={flavor} />
+                        <div></div>
+                        <div></div>
+                        {/* <NutritionChart flavor={flavor} nutritionFacts={nutritionFacts}/> */}
+                        {/* <TrendByState flavor={flavor} /> */}
                     </div>
                     <div className="scoop-trend">
-                        <TrendChart flavor={flavor}/>
+                        {/* <TrendChart flavor={flavor}/> */}
                     </div>
                 </section>
             </main>

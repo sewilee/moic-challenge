@@ -48,6 +48,7 @@ class NutritionChart extends React.Component{
         console.log(this.state.nutritionData);
         return(
             <div>
+                <h2>{this.props.flavor} Ice Cream Nutritional Facts</h2>
                 <Doughnut
                     data={this.state.nutritionData}
                     // width={100}
@@ -59,7 +60,7 @@ class NutritionChart extends React.Component{
                             position: "right"
                         },
                         title:{
-                            display: true,
+                            display: false,
                             text: `${this.props.flavor} Ice Cream Nutritional Facts`
                         }
                         // scales:{

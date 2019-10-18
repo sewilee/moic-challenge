@@ -1,14 +1,30 @@
-.dashboard {
+#root {
     display: flex;
+    flex-flow: column;
+    height: 100%;
+}
 
+.header {
+	display: flex;
+	align-items: center;
+	height: 80px;
+	color: white;
+	background-color: #F498B8;
+	font-size: 26px;
+	padding: 24px 24px 24px 50px;
+}
+
+.dashboard {
+    position: relative;
+    display: flex;
+    padding: 30px;
+    height: 100%;
 }
 
 .sidebar-scoops {
-    width: 25%;
-    padding: 30px;
+    width: 25vw;
     font-size: .9rem;
     color: #F498B8;
-    /* background-color: #F498B8; */
 }
 
 .sidebar-scoops h1 {
@@ -22,7 +38,7 @@
 .sidebar-scoops article {
     display: flex;
     flex-direction: column;
-    padding: 30px;
+    padding: 20px;
     justify-content: center;
 }
 
@@ -39,7 +55,6 @@ img {
 .flavor-labels {
     width: 175px;
     font-size: 14px;
-    /* font-size: .75vw; */
     margin: auto 0;
     text-align: center;
 }
@@ -47,23 +62,34 @@ img {
 .scoop-data {
     display: flex;
     flex-direction: row;
-    height: 40%;
 }
 
 .scoop-data div {
     width: 50%;
     display: flex;
-    justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+.chartjs-render-monitor {
+    padding: 30px;
 }
 
 .scoop-trend {
-    height: 60%;
+    /* height: calc(70%); */
 }
 
 .section-charts {
-    width: 75%;
-    /* border: 1px solid black; */
+    /* height: 100%; */
+    width: 100vw;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+.section-charts h2 {
+    font-size: 18px;
+    color: #F498B8;
+    padding: 20px;
 }
 
 @media screen and (max-width: 1200px){

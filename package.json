@@ -2,6 +2,7 @@
   "name": "moic-challenge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.sewinalee.com/moic-challenge/",
   "dependencies": {
     "chart.js": "^2.8.0",
     "google-trends-api": "^4.9.0",

@@ -16,11 +16,13 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-  vertical-align: baseline;
-  font-family: 'centra-no2',Helvetica,arial,sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+	vertical-align: baseline;
+	font-family: 'centra-no2',Helvetica,arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	/* height: 100%; */
+	/* width: 100%; */
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -28,8 +30,12 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	position: relative;
 	line-height: 1;
+	width: 100vw;
+	height: 100vh;
 	overflow: hidden;
+	border: 2px solid blue;
 }
 ol, ul {
 	list-style: none;
@@ -47,16 +53,3 @@ table {
 	border-spacing: 0;
 }
 
-.header {
-	display: flex;
-	align-items: center;
-	height: 120px;
-	color: white;
-	background-color: #F498B8;
-	font-size: 26px;
-	padding: 24px 24px 24px 50px;
-}
-
-.header h1{
-	/* vertical-align: bottom; */
-}
