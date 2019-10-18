@@ -1,0 +1,410 @@
+[
+  {
+    "Region": "New York",
+    "Vanilla": "39%",
+    "Chocolate": "52%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Wisconsin",
+    "Vanilla": "29%",
+    "Chocolate": "65%",
+    "Cookies and Cream": "3%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Delaware",
+    "Vanilla": "38%",
+    "Chocolate": "62%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Missouri",
+    "Vanilla": "38%",
+    "Chocolate": "59%",
+    "Cookies and Cream": "3%",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Vermont",
+    "Vanilla": "44%",
+    "Chocolate": "56%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Maine",
+    "Vanilla": "43%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "New Hampshire",
+    "Vanilla": "46%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Utah",
+    "Vanilla": "42%",
+    "Chocolate": "55%",
+    "Cookies and Cream": "3%",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Connecticut",
+    "Vanilla": "36%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "3%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "New Jersey",
+    "Vanilla": "36%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Massachusetts",
+    "Vanilla": "37%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Pennsylvania",
+    "Vanilla": "37%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "Oregon",
+    "Vanilla": "41%",
+    "Chocolate": "59%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Kentucky",
+    "Vanilla": "37%",
+    "Chocolate": "63%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Alaska",
+    "Vanilla": "76%",
+    "Chocolate": "24%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Indiana",
+    "Vanilla": "36%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Minnesota",
+    "Vanilla": "36%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Rhode Island",
+    "Vanilla": "47%",
+    "Chocolate": "53%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Montana",
+    "Vanilla": "43%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Iowa",
+    "Vanilla": "43%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Illinois",
+    "Vanilla": "37%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "3%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "Washington",
+    "Vanilla": "42%",
+    "Chocolate": "49%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Michigan",
+    "Vanilla": "38%",
+    "Chocolate": "52%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "6%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "North Carolina",
+    "Vanilla": "39%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "2%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Idaho",
+    "Vanilla": "40%",
+    "Chocolate": "60%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Alabama",
+    "Vanilla": "50%",
+    "Chocolate": "46%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Nebraska",
+    "Vanilla": "48%",
+    "Chocolate": "52%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Virginia",
+    "Vanilla": "38%",
+    "Chocolate": "52%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "5%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "Tennessee",
+    "Vanilla": "41%",
+    "Chocolate": "52%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Ohio",
+    "Vanilla": "38%",
+    "Chocolate": "55%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Maryland",
+    "Vanilla": "41%",
+    "Chocolate": "50%",
+    "Cookies and Cream": "6%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Oklahoma",
+    "Vanilla": "52%",
+    "Chocolate": "48%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Mississippi",
+    "Vanilla": "55%",
+    "Chocolate": "45%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "California",
+    "Vanilla": "40%",
+    "Chocolate": "51%",
+    "Cookies and Cream": "6%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "Louisiana",
+    "Vanilla": "41%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Arkansas",
+    "Vanilla": "49%",
+    "Chocolate": "51%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Kansas",
+    "Vanilla": "43%",
+    "Chocolate": "57%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Florida",
+    "Vanilla": "36%",
+    "Chocolate": "54%",
+    "Cookies and Cream": "6%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Colorado",
+    "Vanilla": "37%",
+    "Chocolate": "53%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "6%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "South Carolina",
+    "Vanilla": "41%",
+    "Chocolate": "50%",
+    "Cookies and Cream": "6%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Georgia",
+    "Vanilla": "44%",
+    "Chocolate": "49%",
+    "Cookies and Cream": "5%",
+    "Mint Chocolate Chip": "2%",
+    "Chocolate Chip Cookie Dough": "0.5%"
+  },
+  {
+    "Region": "Arizona",
+    "Vanilla": "42%",
+    "Chocolate": "50%",
+    "Cookies and Cream": "4%",
+    "Mint Chocolate Chip": "4%",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "South Dakota",
+    "Vanilla": "47%",
+    "Chocolate": "53%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Texas",
+    "Vanilla": "41%",
+    "Chocolate": "48%",
+    "Cookies and Cream": "8%",
+    "Mint Chocolate Chip": "3%",
+    "Chocolate Chip Cookie Dough": "1%"
+  },
+  {
+    "Region": "Wyoming",
+    "Vanilla": "52%",
+    "Chocolate": "48%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "West Virginia",
+    "Vanilla": "45%",
+    "Chocolate": "55%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Hawaii",
+    "Vanilla": "45%",
+    "Chocolate": "55%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "Nevada",
+    "Vanilla": "43%",
+    "Chocolate": "51%",
+    "Cookies and Cream": "6%",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "New Mexico",
+    "Vanilla": "41%",
+    "Chocolate": "59%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "North Dakota",
+    "Vanilla": "59%",
+    "Chocolate": "41%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  },
+  {
+    "Region": "District of Columbia",
+    "Vanilla": "34%",
+    "Chocolate": "66%",
+    "Cookies and Cream": "",
+    "Mint Chocolate Chip": "",
+    "Chocolate Chip Cookie Dough": ""
+  }
+]

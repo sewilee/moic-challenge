@@ -1,0 +1,206 @@
+[
+    {
+        "Region": "New York",
+        "Vanilla": 100
+    },
+    {
+        "Region": "Delaware",
+        "Vanilla": 97
+    },
+    {
+        "Region": "South Dakota",
+        "Vanilla": 97
+    },
+    {
+        "Region": "Alabama",
+        "Vanilla": 95
+    },
+    {
+        "Region": "Mississippi",
+        "Vanilla": 92
+    },
+    {
+        "Region": "Utah",
+        "Vanilla": 91
+    },
+    {
+        "Region": "Nebraska",
+        "Vanilla": 88
+    },
+    {
+        "Region": "New Hampshire",
+        "Vanilla": 88
+    },
+    {
+        "Region": "Kansas",
+        "Vanilla": 86
+    },
+    {
+        "Region": "Maine",
+        "Vanilla": 84
+    },
+    {
+        "Region": "Arkansas",
+        "Vanilla": 82
+    },
+    {
+        "Region": "Tennessee",
+        "Vanilla": 79
+    },
+    {
+        "Region": "Oklahoma",
+        "Vanilla": 79
+    },
+    {
+        "Region": "Georgia",
+        "Vanilla": 79
+    },
+    {
+        "Region": "Idaho",
+        "Vanilla": 79
+    },
+    {
+        "Region": "Arizona",
+        "Vanilla": 77
+    },
+    {
+        "Region": "Vermont",
+        "Vanilla": 76
+    },
+    {
+        "Region": "West Virginia",
+        "Vanilla": 76
+    },
+    {
+        "Region": "Connecticut",
+        "Vanilla": 75
+    },
+    {
+        "Region": "Oregon",
+        "Vanilla": 75
+    },
+    {
+        "Region": "New Jersey",
+        "Vanilla": 74
+    },
+    {
+        "Region": "Washington",
+        "Vanilla": 74
+    },
+    {
+        "Region": "Alaska",
+        "Vanilla": 74
+    },
+    {
+        "Region": "North Carolina",
+        "Vanilla": 74
+    },
+    {
+        "Region": "Pennsylvania",
+        "Vanilla": 72
+    },
+    {
+        "Region": "Michigan",
+        "Vanilla": 72
+    },
+    {
+        "Region": "Virginia",
+        "Vanilla": 72
+    },
+    {
+        "Region": "Minnesota",
+        "Vanilla": 71
+    },
+    {
+        "Region": "Texas",
+        "Vanilla": 71
+    },
+    {
+        "Region": "Maryland",
+        "Vanilla": 70
+    },
+    {
+        "Region": "California",
+        "Vanilla": 70
+    },
+    {
+        "Region": "South Carolina",
+        "Vanilla": 70
+    },
+    {
+        "Region": "Iowa",
+        "Vanilla": 70
+    },
+    {
+        "Region": "Kentucky",
+        "Vanilla": 69
+    },
+    {
+        "Region": "Wisconsin",
+        "Vanilla": 69
+    },
+    {
+        "Region": "Illinois",
+        "Vanilla": 67
+    },
+    {
+        "Region": "Hawaii",
+        "Vanilla": 67
+    },
+    {
+        "Region": "Massachusetts",
+        "Vanilla": 66
+    },
+    {
+        "Region": "Louisiana",
+        "Vanilla": 65
+    },
+    {
+        "Region": "Ohio",
+        "Vanilla": 65
+    },
+    {
+        "Region": "Missouri",
+        "Vanilla": 64
+    },
+    {
+        "Region": "Indiana",
+        "Vanilla": 64
+    },
+    {
+        "Region": "Florida",
+        "Vanilla": 64
+    },
+    {
+        "Region": "North Dakota",
+        "Vanilla": 63
+    },
+    {
+        "Region": "Nevada",
+        "Vanilla": 61
+    },
+    {
+        "Region": "Colorado",
+        "Vanilla": 61
+    },
+    {
+        "Region": "Rhode Island",
+        "Vanilla": 60
+    },
+    {
+        "Region": "District of Columbia",
+        "Vanilla": 58
+    },
+    {
+        "Region": "Montana",
+        "Vanilla": 58
+    },
+    {
+        "Region": "Wyoming",
+        "Vanilla": 55
+    },
+    {
+        "Region": "New Mexico",
+        "Vanilla": 50
+    }
+]

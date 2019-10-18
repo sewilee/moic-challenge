@@ -1,0 +1,206 @@
+[
+    {
+        "Region": "New York",
+        "Chocolate": 100
+    },
+    {
+        "Region": "Maine",
+        "Chocolate": 95
+    },
+    {
+        "Region": "Vermont",
+        "Chocolate": 89
+    },
+    {
+        "Region": "Rhode Island",
+        "Chocolate": 83
+    },
+    {
+        "Region": "New Hampshire",
+        "Chocolate": 81
+    },
+    {
+        "Region": "Connecticut",
+        "Chocolate": 80
+    },
+    {
+        "Region": "Wisconsin",
+        "Chocolate": 80
+    },
+    {
+        "Region": "New Jersey",
+        "Chocolate": 77
+    },
+    {
+        "Region": "Pennsylvania",
+        "Chocolate": 76
+    },
+    {
+        "Region": "Kentucky",
+        "Chocolate": 76
+    },
+    {
+        "Region": "South Dakota",
+        "Chocolate": 75
+    },
+    {
+        "Region": "Iowa",
+        "Chocolate": 75
+    },
+    {
+        "Region": "Missouri",
+        "Chocolate": 73
+    },
+    {
+        "Region": "Delaware",
+        "Chocolate": 72
+    },
+    {
+        "Region": "Illinois",
+        "Chocolate": 71
+    },
+    {
+        "Region": "Oregon",
+        "Chocolate": 71
+    },
+    {
+        "Region": "Indiana",
+        "Chocolate": 69
+    },
+    {
+        "Region": "Massachusetts",
+        "Chocolate": 69
+    },
+    {
+        "Region": "Utah",
+        "Chocolate": 69
+    },
+    {
+        "Region": "North Carolina",
+        "Chocolate": 68
+    },
+    {
+        "Region": "Tennessee",
+        "Chocolate": 67
+    },
+    {
+        "Region": "Kansas",
+        "Chocolate": 67
+    },
+    {
+        "Region": "Arkansas",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Ohio",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Michigan",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Nevada",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Montana",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Washington",
+        "Chocolate": 66
+    },
+    {
+        "Region": "Maryland",
+        "Chocolate": 66
+    },
+    {
+        "Region": "California",
+        "Chocolate": 65
+    },
+    {
+        "Region": "Virginia",
+        "Chocolate": 65
+    },
+    {
+        "Region": "Colorado",
+        "Chocolate": 63
+    },
+    {
+        "Region": "Arizona",
+        "Chocolate": 63
+    },
+    {
+        "Region": "Nebraska",
+        "Chocolate": 63
+    },
+    {
+        "Region": "Minnesota",
+        "Chocolate": 63
+    },
+    {
+        "Region": "Georgia",
+        "Chocolate": 62
+    },
+    {
+        "Region": "Alabama",
+        "Chocolate": 62
+    },
+    {
+        "Region": "South Carolina",
+        "Chocolate": 61
+    },
+    {
+        "Region": "Texas",
+        "Chocolate": 59
+    },
+    {
+        "Region": "Hawaii",
+        "Chocolate": 59
+    },
+    {
+        "Region": "Florida",
+        "Chocolate": 59
+    },
+    {
+        "Region": "Louisiana",
+        "Chocolate": 58
+    },
+    {
+        "Region": "Idaho",
+        "Chocolate": 54
+    },
+    {
+        "Region": "Oklahoma",
+        "Chocolate": 54
+    },
+    {
+        "Region": "District of Columbia",
+        "Chocolate": 53
+    },
+    {
+        "Region": "Mississippi",
+        "Chocolate": 53
+    },
+    {
+        "Region": "West Virginia",
+        "Chocolate": 51
+    },
+    {
+        "Region": "North Dakota",
+        "Chocolate": 51
+    },
+    {
+        "Region": "Wyoming",
+        "Chocolate": 51
+    },
+    {
+        "Region": "New Mexico",
+        "Chocolate": 48
+    },
+    {
+        "Region": "Alaska",
+        "Chocolate": 27
+    }
+]

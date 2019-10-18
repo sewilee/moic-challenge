@@ -1,0 +1,52 @@
+{
+    "Vanilla": {
+        "Portion": 1,
+        "Calories": 273,
+        "Total Fat": 15,
+        "Cholesterol": 58,
+        "Sodium": 106,
+        "Fiber": 0.9,
+        "Sugar": 28,
+        "Protein": 4.6
+    },
+    "Chocolate": {
+        "Portion": 1,
+        "Calories": 285,
+        "Total Fat": 15,
+        "Cholesterol": 45,
+        "Sodium": 100,
+        "Fiber": 1.6,
+        "Sugar": 33,
+        "Protein": 5
+    },
+    "Cookies N Cream": {
+        "Portion": 1,
+        "Calories": 334,
+        "Total Fat": 17,
+        "Cholesterol": 49,
+        "Sodium": 175,
+        "Fiber": 1.4,
+        "Sugar": 33,
+        "Protein": 5.1
+    },
+    "Mint Chocolate Chip": {
+        "Portion": 1,
+        "Calories": 302,
+        "Total Fat": 16,
+        "Cholesterol": 58,
+        "Sodium": 106,
+        "Fiber": 1.3,
+        "Sugar": 31,
+        "Protein": 4.9
+    },
+    "Chocolate Chip Cookie Dough": {
+        "Portion": 1,
+        "Calories": 312,
+        "Total Fat": 16.2,
+        "Cholesterol": 54,
+        "Sodium": 140,
+        "Fiber": 1.1,
+        "Sugar": 30,
+        "Protein": 4.8
+    }
+}

@@ -1,0 +1,418 @@
+[
+  {
+    "Week": "2018-JAN-07",
+    "Vanilla": 34,
+    "Chocolate": 47,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JAN-14",
+    "Vanilla": 36,
+    "Chocolate": 45,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JAN-21",
+    "Vanilla": 32,
+    "Chocolate": 46,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JAN-28",
+    "Vanilla": 36,
+    "Chocolate": 49,
+    "Cookies N Cream": 7,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-FEB-04",
+    "Vanilla": 35,
+    "Chocolate": 49,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-FEB-11",
+    "Vanilla": 32,
+    "Chocolate": 50,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-FEB-18",
+    "Vanilla": 32,
+    "Chocolate": 47,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-FEB-25",
+    "Vanilla": 28,
+    "Chocolate": 46,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAR-04",
+    "Vanilla": 35,
+    "Chocolate": 45,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAR-11",
+    "Vanilla": 33,
+    "Chocolate": 49,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAR-18",
+    "Vanilla": 31,
+    "Chocolate": 53,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAR-25",
+    "Vanilla": 38,
+    "Chocolate": 52,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-APR-01",
+    "Vanilla": 36,
+    "Chocolate": 49,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-APR-08",
+    "Vanilla": 35,
+    "Chocolate": 48,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-APR-15",
+    "Vanilla": 34,
+    "Chocolate": 52,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-APR-22",
+    "Vanilla": 36,
+    "Chocolate": 53,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-APR-29",
+    "Vanilla": 43,
+    "Chocolate": 56,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-MAY-06",
+    "Vanilla": 46,
+    "Chocolate": 57,
+    "Cookies N Cream": 7,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAY-13",
+    "Vanilla": 42,
+    "Chocolate": 60,
+    "Cookies N Cream": 7,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-MAY-20",
+    "Vanilla": 50,
+    "Chocolate": 63,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-MAY-27",
+    "Vanilla": 65,
+    "Chocolate": 73,
+    "Cookies N Cream": 7,
+    "Mint Chocolate Chip": 7,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JUNE-03",
+    "Vanilla": 68,
+    "Chocolate": 86,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JUNE-10",
+    "Vanilla": 60,
+    "Chocolate": 70,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JUNE-17",
+    "Vanilla": 58,
+    "Chocolate": 66,
+    "Cookies N Cream": 7,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JUNE-24",
+    "Vanilla": 56,
+    "Chocolate": 69,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 6,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JULY-01",
+    "Vanilla": 100,
+    "Chocolate": 81,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 7,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JULY-08",
+    "Vanilla": 61,
+    "Chocolate": 75,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 7,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JULY-15",
+    "Vanilla": 55,
+    "Chocolate": 73,
+    "Cookies N Cream": 9,
+    "Mint Chocolate Chip": 7,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-JULY-22",
+    "Vanilla": 69,
+    "Chocolate": 66,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-JULY-29",
+    "Vanilla": 53,
+    "Chocolate": 66,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 6,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-AUG-05",
+    "Vanilla": 51,
+    "Chocolate": 65,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-AUG-12",
+    "Vanilla": 48,
+    "Chocolate": 59,
+    "Cookies N Cream": 8,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-AUG-19",
+    "Vanilla": 43,
+    "Chocolate": 54,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-AUG-26",
+    "Vanilla": 42,
+    "Chocolate": 54,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 2
+  },
+  {
+    "Week": "2018-SEPT-02",
+    "Vanilla": 41,
+    "Chocolate": 55,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-SEPT-09",
+    "Vanilla": 36,
+    "Chocolate": 46,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-SEPT-16",
+    "Vanilla": 30,
+    "Chocolate": 47,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-SEPT-23",
+    "Vanilla": 33,
+    "Chocolate": 45,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 5,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-SEPT-30",
+    "Vanilla": 31,
+    "Chocolate": 44,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-OCT-07",
+    "Vanilla": 34,
+    "Chocolate": 42,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-OCT-14",
+    "Vanilla": 24,
+    "Chocolate": 43,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-OCT-21",
+    "Vanilla": 28,
+    "Chocolate": 38,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-OCT-28",
+    "Vanilla": 28,
+    "Chocolate": 32,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-NOV-04",
+    "Vanilla": 25,
+    "Chocolate": 40,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-NOV-11",
+    "Vanilla": 33,
+    "Chocolate": 42,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-NOV-18",
+    "Vanilla": 42,
+    "Chocolate": 37,
+    "Cookies N Cream": 3,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-NOV-25",
+    "Vanilla": 27,
+    "Chocolate": 39,
+    "Cookies N Cream": 5,
+    "Mint Chocolate Chip": 2,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-DEC-02",
+    "Vanilla": 31,
+    "Chocolate": 40,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-DEC-09",
+    "Vanilla": 25,
+    "Chocolate": 40,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 2,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-DEC-16",
+    "Vanilla": 27,
+    "Chocolate": 40,
+    "Cookies N Cream": 4,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-DEC-23",
+    "Vanilla": 39,
+    "Chocolate": 38,
+    "Cookies N Cream": 3,
+    "Mint Chocolate Chip": 3,
+    "Chocolate Chip Cookie Dough": 1
+  },
+  {
+    "Week": "2018-DEC-30",
+    "Vanilla": 37,
+    "Chocolate": 46,
+    "Cookies N Cream": 6,
+    "Mint Chocolate Chip": 4,
+    "Chocolate Chip Cookie Dough": 1
+  }
+]
