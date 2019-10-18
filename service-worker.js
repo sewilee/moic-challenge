@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moic-challenge/precache-manifest.868e580779901277b06a5185b58297a8.js"
+  "/moic-challenge/precache-manifest.3a1f76db746ae472faf41b6c441d355b.js"
 );
 
 self.addEventListener('message', (event) => {

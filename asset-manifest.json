@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/moic-challenge/static/css/main.d9a4a06a.chunk.css",
-    "main.js": "/moic-challenge/static/js/main.27f43c76.chunk.js",
-    "main.js.map": "/moic-challenge/static/js/main.27f43c76.chunk.js.map",
+    "main.css": "/moic-challenge/static/css/main.31a9916c.chunk.css",
+    "main.js": "/moic-challenge/static/js/main.3baee1f5.chunk.js",
+    "main.js.map": "/moic-challenge/static/js/main.3baee1f5.chunk.js.map",
     "runtime-main.js": "/moic-challenge/static/js/runtime-main.12c33d0e.js",
     "runtime-main.js.map": "/moic-challenge/static/js/runtime-main.12c33d0e.js.map",
     "static/js/2.f3c5566a.chunk.js": "/moic-challenge/static/js/2.f3c5566a.chunk.js",
     "static/js/2.f3c5566a.chunk.js.map": "/moic-challenge/static/js/2.f3c5566a.chunk.js.map",
     "index.html": "/moic-challenge/index.html",
-    "precache-manifest.868e580779901277b06a5185b58297a8.js": "/moic-challenge/precache-manifest.868e580779901277b06a5185b58297a8.js",
+    "precache-manifest.3a1f76db746ae472faf41b6c441d355b.js": "/moic-challenge/precache-manifest.3a1f76db746ae472faf41b6c441d355b.js",
     "service-worker.js": "/moic-challenge/service-worker.js",
-    "static/css/main.d9a4a06a.chunk.css.map": "/moic-challenge/static/css/main.d9a4a06a.chunk.css.map"
+    "static/css/main.31a9916c.chunk.css.map": "/moic-challenge/static/css/main.31a9916c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.12c33d0e.js",
     "static/js/2.f3c5566a.chunk.js",
-    "static/css/main.d9a4a06a.chunk.css",
-    "static/js/main.27f43c76.chunk.js"
+    "static/css/main.31a9916c.chunk.css",
+    "static/js/main.3baee1f5.chunk.js"
   ]
 }
