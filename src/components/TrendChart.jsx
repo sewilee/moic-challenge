@@ -155,6 +155,11 @@ class TrendChart extends React.Component{
                         legend: {
                             position: "right",
                         },
+                        tooltips:{
+                            mode: 'label',
+                            position: 'nearest',
+                            bodySpacing: 3,
+                        },
                         scales: {
                             yAxes: [{
                                 gridLines: {

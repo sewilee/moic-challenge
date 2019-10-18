@@ -65,16 +65,12 @@ class NutritionChart extends React.Component{
                         // responsive: true,
                         legend:{
                             position: "bottom",
-                            labels: {
-                                fontSize: 13,
-                            }
                         },
                         title:{
                             display: false,
                             text: `${this.props.flavor} Ice Cream Nutritional Facts`
                         },
                         tooltips:{
-                            bodyFontSize: 13,
                             position: "nearest",
                         }
                         // scales:{

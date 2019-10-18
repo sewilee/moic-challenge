@@ -50,24 +50,25 @@ class ScoopFlavor extends React.Component{
             <main className="dashboard">
                 <aside className="sidebar-scoops">
                     <h1>Top Flavors in USA</h1>
+                    <p>Click on a flavor</p>
                     <article>
-                        <div className="scoop" onClick={() => this.setFlavor("Vanilla")} >
+                        <div className="scoop flavor-click" onClick={() => this.setFlavor("Vanilla")} >
                             <h2 className="flavor-labels">Vanilla</h2>
                             <img src={require('../assets/images/vanilla.png')} />
                         </div>
-                        <div className="scoop" onClick={() => this.setFlavor("Chocolate")} >
+                        <div className="scoop flavor-click" onClick={() => this.setFlavor("Chocolate")} >
                             <h2 className="flavor-labels">Chocolate</h2>
                             <img src={require('../assets/images/chocolate.png')} />
                         </div>
-                        <div className="scoop" onClick={() => this.setFlavor("Cookies N Cream")} >
+                        <div className="scoop flavor-click" onClick={() => this.setFlavor("Cookies N Cream")} >
                             <h2 className="flavor-labels">Cookies N Cream</h2>
                             <img src={require('../assets/images/cookiencream.png')} />
                         </div>
-                        <div className="scoop" onClick={() => this.setFlavor("Mint Chocolate Chip")} >
+                        <div className="scoop flavor-click" onClick={() => this.setFlavor("Mint Chocolate Chip")} >
                             <h2 className="flavor-labels">Mint Chocolate Chip</h2>
                             <img src={require('../assets/images/mint.png')} />
                         </div>
-                        <div className="scoop" onClick={() => this.setFlavor("Chocolate Chip Cookie Dough")} >
+                        <div className="scoop flavor-click" onClick={() => this.setFlavor("Chocolate Chip Cookie Dough")} >
                             <h2 className="flavor-labels">Chocolate Chip Cookie Dough</h2>
                             <img src={require('../assets/images/cookiedough.png')} />
                         </div>
