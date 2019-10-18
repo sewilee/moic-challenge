@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34df3c11d67d53471970bd502647e03c",
+    "revision": "9bcd74f8b26b1aa0bc7792a1f48fa21c",
     "url": "/moic-challenge/index.html"
   },
   {
-    "revision": "47fb952fafb99fc344b2",
-    "url": "/moic-challenge/static/css/main.31a9916c.chunk.css"
+    "revision": "a2b9a0de4c71e895a62b",
+    "url": "/moic-challenge/static/css/main.c86d6d27.chunk.css"
   },
   {
     "revision": "6d4fd88f71ade11d5ff4",
     "url": "/moic-challenge/static/js/2.f3c5566a.chunk.js"
   },
   {
-    "revision": "47fb952fafb99fc344b2",
-    "url": "/moic-challenge/static/js/main.3baee1f5.chunk.js"
+    "revision": "a2b9a0de4c71e895a62b",
+    "url": "/moic-challenge/static/js/main.842c06ec.chunk.js"
   },
   {
     "revision": "9a019de09156c60285cc",
