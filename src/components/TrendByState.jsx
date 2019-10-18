@@ -57,6 +57,8 @@ class TrendByState extends React.Component{
         
         return(
             <div id="horizontal-bar-container">
+                <h2>The Search for Ice Cream:</h2>
+                <p>Top 10 States</p>
                 <HorizontalBar
                     // id = "horizontal-bar"
                     data = {{
@@ -73,16 +75,25 @@ class TrendByState extends React.Component{
                             display: false,
                         },
                         title:{
-                            display: true,
+                            display: false,
                             text: `The Search for ${this.props.flavor} Ice Cream: Top 10 States`,
                         },
                         scales:{
                             xAxes:[{
+                                display: false,
                                 ticks:{
                                     min: 0,
                                 }
+                            }],
+                            yAxes:[{
+                                gridLines:{
+                                    display: false,
+                                }
                             }]
                         },
+                        tooltips: {
+                            enabled: false,
+                        }
                         // onResize:() => {
                         //     let canvas = document.getElementById("horizontal-bar");
                         //     let parent = document.getElementById("horizontal-bar-container");

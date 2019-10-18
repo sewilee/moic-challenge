@@ -133,16 +133,14 @@ class TrendChart extends React.Component{
 
     render(){
         return(
-            <div>
+            // <div>
                 <Line
                     data = {this.state.chartData}
-                    // height = {400}
-                    // width = {400}
                     options = {{
                         maintainAspectRatio: false,
-                        responsive: true,
+                        // responsive: true,
                         title: {
-                            display: true,
+                            display: false,
                             text: 'Trends of Favorite Ice Cream'
                         },
                         legend: {
@@ -150,7 +148,7 @@ class TrendChart extends React.Component{
                         }
                     }}
                 />
-            </div>
+            // </div>
         )
     }
 }

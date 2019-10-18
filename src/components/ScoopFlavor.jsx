@@ -79,14 +79,14 @@ class ScoopFlavor extends React.Component{
                     </article>
                 </aside>
                 <section className="section-charts">
+                    <h2>{flavor}</h2>
                     <div className="scoop-data">
-                        <div></div>
-                        <div></div>
-                        {/* <NutritionChart flavor={flavor} nutritionFacts={nutritionFacts}/> */}
-                        {/* <TrendByState flavor={flavor} /> */}
+                        <NutritionChart flavor={flavor} nutritionFacts={nutritionFacts}/>
+                        <TrendByState flavor={flavor} />
                     </div>
                     <div className="scoop-trend">
-                        {/* <TrendChart flavor={flavor}/> */}
+                        <h2>Monthly Search Trend 2018</h2>
+                        <TrendChart flavor={flavor}/>
                     </div>
                 </section>
             </main>

@@ -47,21 +47,26 @@ class NutritionChart extends React.Component{
     render(){
         console.log(this.state.nutritionData);
         return(
-            <div>
-                <h2>{this.props.flavor} Ice Cream Nutritional Facts</h2>
+            <div className="scoop-data-charts">
+                <h2>Nutritional Facts</h2>
                 <Doughnut
                     data={this.state.nutritionData}
-                    // width={100}
-                    // height={50}
                     options={{
-                        maintainAspectRatio: true,
-                        responsive: true,
+                        maintainAspectRatio: false,
+                        // responsive: true,
                         legend:{
-                            position: "right"
+                            position: "bottom",
+                            labels: {
+                                fontSize: 13,
+                            }
                         },
                         title:{
                             display: false,
                             text: `${this.props.flavor} Ice Cream Nutritional Facts`
+                        },
+                        tooltips:{
+                            bodyFontSize: 13,
+                            position: "nearest",
                         }
                         // scales:{
                         //     yAxes:[{
