@@ -1,8 +1,8 @@
 {
-  "name": "moic-challenge",
+  "name": "scoop-trend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sewilee.github.io/moic-challenge/",
+  "homepage": "http://sewilee.github.io/scoop-trend/",
   "dependencies": {
     "chart.js": "^2.8.0",
     "gh-pages": "^2.1.1",
