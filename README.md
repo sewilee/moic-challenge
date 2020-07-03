@@ -1,6 +1,6 @@
 # Scoop Trend
 
-An Ice Cream themed analytics dashboard comparing USA's top favorite Ice Cream flavors, nutritional facts and their search history in USA. [Live Link](http://www.sewinalee.com/moic-challenge/)
+An Ice Cream themed analytics dashboard comparing USA's top favorite Ice Cream flavors, nutritional facts and their search history in USA. [Live Link](http://www.sewinalee.com/scoop-trend/)
 
 Interactive dashboard that updates per flavor.
 

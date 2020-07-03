@@ -10,7 +10,7 @@ function App() {
         <div className="credit">
           <p>Created by Sewina Lee</p>
           <a href="https://www.sewinalee.com" target="_blank">Portfolio</a>
-          <a href="https://github.com/sewilee/moic-challenge" target="_blank">Github</a>
+          <a href="https://github.com/sewilee/scoop-trend" target="_blank">Github</a>
         </div>
       </header>
       <ScoopFlavor />
